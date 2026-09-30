@@ -1,0 +1,12 @@
+# Build and EDA simulation artifacts
+*.log
+*.pb
+*.jou
+*.wdb
+*.vcd
+*.str
+.Xil/
+xsim.dir/
+work/
+transcript
+*.key
